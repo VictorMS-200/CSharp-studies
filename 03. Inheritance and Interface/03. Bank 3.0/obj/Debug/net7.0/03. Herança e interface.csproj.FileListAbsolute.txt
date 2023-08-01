@@ -13,63 +13,18 @@ C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\obj\Debug
 C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\obj\Debug\net7.0\03. Herança e interface.pdb
 C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\obj\Debug\net7.0\03. Herança e interface.genruntimeconfig.cache
 C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\obj\Debug\net7.0\ref\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\bin\Debug\net7.0\03. Herança e interface.exe
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\bin\Debug\net7.0\03. Herança e interface.deps.json
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\bin\Debug\net7.0\03. Herança e interface.runtimeconfig.json
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\bin\Debug\net7.0\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\bin\Debug\net7.0\03. Herança e interface.pdb
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\obj\Debug\net7.0\03. Herança e interface.csproj.AssemblyReference.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\obj\Debug\net7.0\03. Herança e interface.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\obj\Debug\net7.0\03. Herança e interface.AssemblyInfoInputs.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\obj\Debug\net7.0\03. Herança e interface.AssemblyInfo.cs
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\obj\Debug\net7.0\03. Herança e interface.csproj.CoreCompileInputs.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\obj\Debug\net7.0\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\obj\Debug\net7.0\refint\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\obj\Debug\net7.0\03. Herança e interface.pdb
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\obj\Debug\net7.0\03. Herança e interface.genruntimeconfig.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Herança e interface\obj\Debug\net7.0\ref\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.exe
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.deps.json
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.runtimeconfig.json
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.pdb
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.csproj.AssemblyReference.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.AssemblyInfoInputs.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.AssemblyInfo.cs
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.csproj.CoreCompileInputs.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\obj\Debug\net7.0\refint\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.pdb
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.genruntimeconfig.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\Banco(SistemaLogar)\obj\Debug\net7.0\ref\03. Herança e interface.dll
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.exe
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.deps.json
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.runtimeconfig.json
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.dll
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.pdb
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.csproj.AssemblyReference.cache
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.AssemblyInfoInputs.cache
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.AssemblyInfo.cs
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.csproj.CoreCompileInputs.cache
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.dll
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\refint\03. Herança e interface.dll
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.pdb
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.genruntimeconfig.cache
-C:\Users\lusto\Desktop\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\ref\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.exe
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.deps.json
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.runtimeconfig.json
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\bin\Debug\net7.0\03. Herança e interface.pdb
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.csproj.AssemblyReference.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.AssemblyInfoInputs.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.AssemblyInfo.cs
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.csproj.CoreCompileInputs.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\refint\03. Herança e interface.dll
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.pdb
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\03. Herança e interface.genruntimeconfig.cache
-C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\04. Banco(SistemaLogar)\obj\Debug\net7.0\ref\03. Herança e interface.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\bin\Debug\net7.0\03. Herança e interface.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\bin\Debug\net7.0\03. Herança e interface.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\bin\Debug\net7.0\03. Herança e interface.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\bin\Debug\net7.0\03. Herança e interface.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\bin\Debug\net7.0\03. Herança e interface.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\obj\Debug\net7.0\03. Herança e interface.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\obj\Debug\net7.0\03. Herança e interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\obj\Debug\net7.0\03. Herança e interface.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\obj\Debug\net7.0\03. Herança e interface.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\obj\Debug\net7.0\03. Herança e interface.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\obj\Debug\net7.0\03. Herança e interface.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\obj\Debug\net7.0\refint\03. Herança e interface.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\obj\Debug\net7.0\03. Herança e interface.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\obj\Debug\net7.0\03. Herança e interface.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\03. Banco\obj\Debug\net7.0\ref\03. Herança e interface.dll

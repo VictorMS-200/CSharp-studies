@@ -1,56 +1,57 @@
 ﻿using System.Text;
 
 
-var rootFile = "Contas.txt"; // Contas.txt is in the root folder of the project (06. Files\01. File to class)
+var pathFile = "Accounts.txt"; // Accounts.txt is in the root folder of the project (06. Files\05. Account\Contas.txt)
 
 
-// Escreve o buffer na tela
+// Write a buffer in console
 void WriteBuffer(byte[] buffer, int BytesRead)
 {
-    var utf8 = new UTF8Encoding(); // Cria um objeto UTF8
+    var utf8 = new UTF8Encoding(); // Create a UTF8 object
 
-    var text = utf8.GetString(buffer, 0, BytesRead); // Converte os bytes para string
+    var text = utf8.GetString(buffer, 0, BytesRead); // Convert the buffer in text
     Console.Write(text);
 }
 
 
 void FileClass()
 {
-    // Imprime a quantidade de linhas do arquivo
-    var lines = File.ReadAllLines(rootFile);
-    Console.WriteLine($"O arquivo tem {lines.Length} linhas."); 
+    // Write the amount of lines in the console
+    var lines = File.ReadAllLines(pathFile);
+    Console.WriteLine($"The file has {lines.Length} lines"); 
 
-    // Imprime todas as linhas do arquivo
+    // Write all the lines in the console
     foreach (var line in lines)
     {
         Console.WriteLine(line);
     }
 
-    // Le os bytes do arquivo e imprime a quantidade de bytes
-    var bytesRead = File.ReadAllBytes(rootFile);
-    Console.WriteLine($"O arquivo tem {bytesRead.Length} bytes.");
+    // Write the amount of bytes in the console
+    var bytesRead = File.ReadAllBytes(pathFile);
+    Console.WriteLine($"The file has {bytesRead.Length} bytes.");
 
-    // Escreve no arquivo o nome "Victor Martins de Sousa"
-    File.WriteAllText("Nome.txt", "Victor Martins de Sousa");
+    // Write the name in the file
+    File.WriteAllText("Name.txt", "Victor Martins");
 }
 
 
 void LidandoComFileStream()
 {   
-    // FileStream é uma classe que permite ler e escrever bytes em um arquivo
-    using (var fileStream = new FileStream(rootFile, FileMode.Open))
+    // Open file with FileStream
+    using (var fileStream = new FileStream(pathFile, FileMode.Open)) // FileMode.Open will open an existing file
     {
         var NumbersOfBytsRead = -1;
 
-        var buffer = new byte[1024]; // Cria um buffer de 1024 bytes
+        var buffer = new byte[1024]; // Create a buffer with 1024 bytes
 
-        // Enquanto o numero de bytes lidos for diferente de 0, continua lendo
+        // While the file has bytes to read 
         while(NumbersOfBytsRead != 0)
         {
-            NumbersOfBytsRead = fileStream.Read(buffer, 0, 1024); // Lê 1024 bytes do arquivo
+            NumbersOfBytsRead = fileStream.Read(buffer, 0, 1024); // Read the file and save in buffer
             WriteBuffer(buffer, NumbersOfBytsRead);
         }
 
+        // Close the file
         fileStream.Close();
     }
 }
@@ -61,13 +62,13 @@ FileClass();
 /*
 Output:
 
-O arquivo tem 1000 linhas
+The file has 1000 lines
 375,4644,2483.13,Jonatan Silva
 234,4020,2822.52,Debora
 316,3254,3350.37,Leonardo
 ...
 ...
-O arquivo tem 25166 bytes.
+The file has 25166 bytes.
 */
 
 
@@ -76,6 +77,6 @@ LidandoComFileStream();
 /*
 Output (Nome.txt):
 
-Victor Martins de Sousa
+Victor Martins
 */
 

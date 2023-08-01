@@ -1,60 +1,50 @@
-﻿using ClassDiretor;
-using ClassAuxiliar;
-using ClassDesigner;
-using ClassGerente;
-using ClassSistemaInterno;
+﻿using ClassInnerSystem;
+using Employees;
 
-public class Program
+
+void UseSystem()
 {
-    private static void Main(string[] args)
-    {
-
-        UsarSistema(); // Execuar o método
-
-        void UsarSistema()
-        {
-
-            // Criação do objeto (Mateus) da classe Diretor
-            Diretor Mateus = new Diretor("123567");
-            Mateus.Nome = "Mateus Pereira";
-            Mateus.Senha = "456";
+    // Creating objects from classes (Director) and setting their properties 
+    Director Matheus = new Director("123567");
+    Matheus.Name = "Matheus Gomes";
+    Matheus.Password = "456";
 
 
-            // Criação do objeto (Daniel) da classe Designer
-            Designer Daniel = new Designer("147852");
-            Daniel.Nome = "Daniel Frontarolli";
-            Daniel.Senha = "987";
+    // Creating objects from classes (Designer) and setting their properties
+    Designer Daniel = new Designer("147852");
+    Daniel.Name = "Daniel Henrique";
+    Daniel.Password = "987";
 
 
-            // Criação do objeto (Eduardo) da classe Auxiliar
-            Auxiliar Eduardo = new Auxiliar("235689");
-            Eduardo.Nome = "Eduardo Rabelo";
-            Eduardo.Senha = "123";
+    // Creating objects from classes (Assistant) and setting their properties
+    Assistant Edward = new Assistant("235689");
+    Edward.Name = "Edward Cullen";
+    Edward.Password = "123";
 
 
-            // Criação do objeto (João) da classe GerenteDeContas
-            GerenteDeContas João = new GerenteDeContas("124578");
-            João.Nome = "João Vitor Vanni";
-            João.Senha = "125";
+    // Creating objects from classes (AccountManager) and setting their properties
+    AccountManager Jonh = new AccountManager("124578");
+    Jonh.Name = "Jonh Victor";
+    Jonh.Password = "125";
 
 
-            // Criação do objeto (sistema) da classe SistemaInterno
-            SistemaInterno sistema = new SistemaInterno();
+    // Creating object from class (InnerSystem) and calling its method
+    InnerSystem system = new InnerSystem();
 
 
-            sistema.Logar(Mateus, "457"); // Senha errada
-            sistema.Logar(Daniel, "987"); // Senha correta
-            sistema.Logar(Eduardo, "123"); // Senha corretas
-            sistema.Logar(João, "456"); // Senha errada
-        }
-
-        /*
-        Output:
-
-        Senha incorreta!
-        Boas-vindas ao nosso sistema.
-        Boas-vindas ao nosso sistema.
-        Senha incorreta!
-        */
-    }
+    system.LogInto(Matheus, "457"); 
+    system.LogInto(Daniel, "987");
+    system.LogInto(Edward, "123");
+    system.LogInto(Jonh, "456");
 }
+
+
+UseSystem();
+/*
+Output:
+
+Password is incorrect!
+Welcome to the system!
+Welcome to the system!
+Password is incorrect!
+*/

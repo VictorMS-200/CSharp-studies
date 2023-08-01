@@ -1,40 +1,45 @@
-﻿void EscritaBinaria()
-{
-    using (var fluxoDeArquivo = new FileStream("BinarioEscrever.csv", FileMode.Create))
+﻿var pathFile = "WriteBinary.csv";
 
-    // Cria um escritor binario
-    using (var escritor = new BinaryWriter(fluxoDeArquivo))
+void WriteBinary()
+{
+    // Create a file with FileStream
+    using (var fileStream = new FileStream(pathFile, FileMode.Create)) // FileMode.Create will create a new file or overwrite an existing one
+
+    // Create a binary writer
+    using (var writer = new BinaryWriter(fileStream))
     {
-        // Escreve o valor no arquivo BinarioEscrever.csv
-        escritor.Write("Victor Martins");
-        escritor.Write(515);
-        escritor.Write(21543.21);
+        // Write in file in binary
+        writer.Write("Victor Martins");
+        writer.Write(515);
+        writer.Write(21543.21);
     }
 }
 
-void LerBinaria()
+void ReadBinary()
 {
-    using (var fluxoDeArquivo = new FileStream("BinarioEscrever.csv", FileMode.Open))
+    // Open file with FileStream
+    using (var fileStream = new FileStream(pathFile, FileMode.Open)) // FileMode.Open will open an existing file
 
-    // Cria um leitor binario
-    using (var leitor = new BinaryReader(fluxoDeArquivo))
+    // Create a binary reader
+    using (var reader = new BinaryReader(fileStream))
     {
-        var titular = leitor.ReadString(); // Converte o valor para string
-        var Numero = leitor.ReadInt32(); // Converte o valor para int
-        var Saldo = leitor.ReadInt32(); // Converte o valor para double
+        // Read file in binary
+        var holder = reader.ReadString(); 
+        var number = reader.ReadInt32(); 
+        var balance = reader.ReadInt32();
 
-        Console.WriteLine($"Titular: {titular}\nNumero da conta: {Numero}\nSaldo: {Saldo}");
+        Console.WriteLine($"Holder: {holder}\nNumber: {number}\nBalance: {balance}");
     }
 }
 
-EscritaBinaria();
+WriteBinary();
 
-LerBinaria();
+ReadBinary();
 
 /*
 Output:
 
-Titular: Victor Martins
-Numero da conta: 515
-Saldo: 21543.21
+Holder: Victor Martins
+Number: 515
+Balance: 21543.21
 */

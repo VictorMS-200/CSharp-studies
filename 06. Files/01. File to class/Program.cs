@@ -4,13 +4,13 @@
 Bank StringToCurrentAccount(string line)
 {
     // Split string
-    var campos = line.Split(',');
+    var space = line.Split(',');
 
     // Get values from string and convert to int and double
-    var account = campos[0];
-    var number = campos[1];
-    var balance = campos[2].Replace('.', ',');
-    var holderName = campos[3];
+    var account = space[0];
+    var number = space[1];
+    var balance = space[2].Replace('.', ',');
+    var holderName = space[3];
 
     var accountInt = int.Parse(account);
     var numberInt = int.Parse(number);
@@ -29,8 +29,8 @@ Bank StringToCurrentAccount(string line)
     return result;
 }
 
-// Open file (Contas.txt) and read line by line
-using (var file = new FileStream("Contas.txt", FileMode.Open)) // Contas.txt is in the root folder of the project (06. Files\01. File to class)
+// Open file (Accounts.txt) and read line by line
+using (var file = new FileStream("Accounts.txt", FileMode.Open)) // Accounts.txt is in the root folder of the project (06. Files\01. File to class)
 {
     // Read file
     var reader = new StreamReader(file);

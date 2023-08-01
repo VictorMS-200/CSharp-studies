@@ -1,9 +1,9 @@
 ﻿using MarketSystem;
 
-// Criação do objeto (ProdutoFini)
+// Create a object of Market class
 Market FiniProduct = new Market();
 
-// Atribuindo valores aos atributos
+// Seting the values of the object
 FiniProduct.Name = "Fini";
 FiniProduct.Manufacturer = "Fini Company";
 FiniProduct.StockQuantity = 16;

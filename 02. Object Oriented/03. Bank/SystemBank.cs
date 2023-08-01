@@ -5,15 +5,15 @@ namespace BankSystem;
 public class Bank
 {
     
-    // Create attributes
+    // Create properties
     public string? Account { get; set; }
     public static int TotalAccountCreated { get; private set; } // static member
 
 
-    public Client? Holder { get; set; } // Attribute of type Client
+    public Client? Holder { get; set; } // Properties of type Client
 
 
-    // Create attribute with encapsulation
+    // Create properties with encapsulation
     private int numberAccount;
     public int NumberAccount
     {

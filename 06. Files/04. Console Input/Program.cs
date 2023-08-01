@@ -1,21 +1,32 @@
 ﻿void UsarStreamDeEntrada()
 {
-    using (var fluxoDeEntrada = Console.OpenStandardInput())
+    // Create a stream with Console.OpenStandardInput()
+    using (var inflow = Console.OpenStandardInput())
 
-    // Cria um escritor de arquivo
-    using (var fluxoDeArquivo = new FileStream("entradaConsole.txt", FileMode.Create))
+    // Create a file with FileStream
+    using (var fileStream = new FileStream("inflow.txt", FileMode.Create)) // FileMode.Create will create a new file or overwrite an existing one
     {
-        // Cria um buffer de 1024 bytes
+        // Create a buffer with 1024 bytes
         var buffer = new byte[1024];
 
         while (true)
         {
-            var byteslidos = fluxoDeEntrada.Read(buffer, 0, 1024); // Lê o buffer de 1024 bytes
+            var bytesRead = inflow.Read(buffer, 0, 1024); // Read the stream and save in buffer
 
-            fluxoDeArquivo.Write(buffer, 0, byteslidos); // Escreve o buffer de 1024 bytes
-            fluxoDeArquivo.Flush(); // Limpa o buffer
+            fileStream.Write(buffer, 0, bytesRead); // Write the buffer in the file
+            fileStream.Flush(); // Clean the buffer
         }
     }
 }
 
-UsarStreamDeEntrada(); // Cria o arquivo entradaConsole.txt e escreve o que for digitado no console
+UsarStreamDeEntrada();
+/*
+Output:
+
+Hello World!
+In file: Hello World!
+
+Good Morning!
+In file: Good Morning!
+
+*/

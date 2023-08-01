@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\03. Herança e interface\\04. Banco(SistemaLogar)\\03. Herança e interface.csproj",
+      "projectUniqueName": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\03. Herança e interface\\03. Banco\\03. Herança e interface.csproj",
       "projectName": "03. Herança e interface",
-      "projectPath": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\03. Herança e interface\\04. Banco(SistemaLogar)\\03. Herança e interface.csproj",
+      "projectPath": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\03. Herança e interface\\03. Banco\\03. Herança e interface.csproj",
       "packagesPath": "C:\\Users\\lusto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\03. Herança e interface\\04. Banco(SistemaLogar)\\obj\\",
+      "outputPath": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\03. Herança e interface\\03. Banco\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lusto\\AppData\\Roaming\\NuGet\\NuGet.Config",
