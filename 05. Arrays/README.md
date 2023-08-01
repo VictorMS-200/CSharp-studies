@@ -11,7 +11,7 @@
 
 In this project I apply the knowledge of the following things: How to use an Array, a List, the difference between them and generics.
 
-Projects of the section 05. Arrays of the repository:
+Projects of the section [05. Arrays] of the repository:
 - Array Size (Show the size of an array)
 - Search Word (Search a word in an array)
 - Median (Median of the numbers in an array)
@@ -20,8 +20,11 @@ Projects of the section 05. Arrays of the repository:
 
 ## How to use?
 
-First of all you need to have the .NET SDK installed on your machine. You can download it <a href="https://dotnet.microsoft.com/download/dotnet/5.0">here</a>. After that, you can clone this repository and run the projects in your IDE. I recommend using Visual Studio Code or Visual Studio Community. After cloning the repository, you can run the projects using the following command in the terminal (inside the project folder you want to run):
+First of all you need to have the .NET SDK installed on your machine. You can download it <a href="https://dotnet.microsoft.com/download/dotnet/5.0">here</a>. After that, you can clone this repository and run the projects in your IDE. I recommend using Visual Studio Code or Visual Studio Community.
+
+After cloning the repository, you can run the projects using the following command in the terminal (inside the project folder you want to run). For example, if you want to run the project "01. First steps", you need to cd into the folder "01. First steps/01. Hello World" and run the following command:
 
 ```bash
 dotnet run
+```
 ```
