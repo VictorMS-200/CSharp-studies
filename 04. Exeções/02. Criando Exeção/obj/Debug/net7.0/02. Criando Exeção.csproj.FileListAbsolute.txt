@@ -1,0 +1,15 @@
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\bin\Debug\net7.0\02. Criando Exeção.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\bin\Debug\net7.0\02. Criando Exeção.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\bin\Debug\net7.0\02. Criando Exeção.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\bin\Debug\net7.0\02. Criando Exeção.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\bin\Debug\net7.0\02. Criando Exeção.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\obj\Debug\net7.0\02. Criando Exeção.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\obj\Debug\net7.0\02. Criando Exeção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\obj\Debug\net7.0\02. Criando Exeção.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\obj\Debug\net7.0\02. Criando Exeção.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\obj\Debug\net7.0\02. Criando Exeção.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\obj\Debug\net7.0\02. Criando Exeção.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\obj\Debug\net7.0\refint\02. Criando Exeção.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\obj\Debug\net7.0\02. Criando Exeção.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\obj\Debug\net7.0\02. Criando Exeção.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\02. Criando Exeção\obj\Debug\net7.0\ref\02. Criando Exeção.dll

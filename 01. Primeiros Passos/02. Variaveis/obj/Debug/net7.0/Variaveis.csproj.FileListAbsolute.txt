@@ -1,0 +1,30 @@
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\bin\Debug\net7.0\Variaveis.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\bin\Debug\net7.0\Variaveis.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\bin\Debug\net7.0\Variaveis.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\bin\Debug\net7.0\Variaveis.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\bin\Debug\net7.0\Variaveis.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\obj\Debug\net7.0\Variaveis.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\obj\Debug\net7.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\obj\Debug\net7.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\obj\Debug\net7.0\Variaveis.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\obj\Debug\net7.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\obj\Debug\net7.0\Variaveis.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\obj\Debug\net7.0\refint\Variaveis.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\obj\Debug\net7.0\Variaveis.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\obj\Debug\net7.0\Variaveis.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Variaveis\obj\Debug\net7.0\ref\Variaveis.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\bin\Debug\net7.0\Variaveis.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\bin\Debug\net7.0\Variaveis.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\bin\Debug\net7.0\Variaveis.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\bin\Debug\net7.0\Variaveis.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\bin\Debug\net7.0\Variaveis.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\obj\Debug\net7.0\Variaveis.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\obj\Debug\net7.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\obj\Debug\net7.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\obj\Debug\net7.0\Variaveis.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\obj\Debug\net7.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\obj\Debug\net7.0\Variaveis.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\obj\Debug\net7.0\refint\Variaveis.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\obj\Debug\net7.0\Variaveis.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\obj\Debug\net7.0\Variaveis.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Variaveis\obj\Debug\net7.0\ref\Variaveis.dll

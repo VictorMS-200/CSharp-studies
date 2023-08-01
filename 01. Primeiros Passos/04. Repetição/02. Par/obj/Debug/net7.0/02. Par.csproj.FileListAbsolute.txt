@@ -1,0 +1,15 @@
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\bin\Debug\net7.0\02. Par.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\bin\Debug\net7.0\02. Par.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\bin\Debug\net7.0\02. Par.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\bin\Debug\net7.0\02. Par.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\bin\Debug\net7.0\02. Par.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\obj\Debug\net7.0\02. Par.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\obj\Debug\net7.0\02. Par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\obj\Debug\net7.0\02. Par.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\obj\Debug\net7.0\02. Par.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\obj\Debug\net7.0\02. Par.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\obj\Debug\net7.0\02. Par.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\obj\Debug\net7.0\refint\02. Par.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\obj\Debug\net7.0\02. Par.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\obj\Debug\net7.0\02. Par.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\01. Primeiros Passos\05. Repetição\02. Par\obj\Debug\net7.0\ref\02. Par.dll

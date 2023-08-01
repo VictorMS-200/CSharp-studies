@@ -1,0 +1,15 @@
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\bin\Debug\net7.0\01. Operações.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\bin\Debug\net7.0\01. Operações.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\bin\Debug\net7.0\01. Operações.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\bin\Debug\net7.0\01. Operações.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\bin\Debug\net7.0\01. Operações.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\obj\Debug\net7.0\01. Operações.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\obj\Debug\net7.0\01. Operações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\obj\Debug\net7.0\01. Operações.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\obj\Debug\net7.0\01. Operações.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\obj\Debug\net7.0\01. Operações.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\obj\Debug\net7.0\01. Operações.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\obj\Debug\net7.0\refint\01. Operações.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\obj\Debug\net7.0\01. Operações.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\obj\Debug\net7.0\01. Operações.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\01. Operações\obj\Debug\net7.0\ref\01. Operações.dll

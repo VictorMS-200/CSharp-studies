@@ -1,0 +1,15 @@
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\obj\Debug\net7.0\03. Banco.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\obj\Debug\net7.0\03. Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\obj\Debug\net7.0\03. Banco.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\obj\Debug\net7.0\03. Banco.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\obj\Debug\net7.0\03. Banco.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\bin\Debug\net7.0\03. Banco.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\bin\Debug\net7.0\03. Banco.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\bin\Debug\net7.0\03. Banco.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\bin\Debug\net7.0\03. Banco.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\bin\Debug\net7.0\03. Banco.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\obj\Debug\net7.0\03. Banco.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\obj\Debug\net7.0\refint\03. Banco.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\obj\Debug\net7.0\03. Banco.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\obj\Debug\net7.0\03. Banco.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\03. Banco\obj\Debug\net7.0\ref\03. Banco.dll

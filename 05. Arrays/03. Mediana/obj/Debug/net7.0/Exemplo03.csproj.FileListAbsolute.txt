@@ -1,0 +1,15 @@
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\bin\Debug\net7.0\Exemplo03.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\bin\Debug\net7.0\Exemplo03.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\bin\Debug\net7.0\Exemplo03.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\bin\Debug\net7.0\Exemplo03.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\bin\Debug\net7.0\Exemplo03.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\obj\Debug\net7.0\Exemplo03.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\obj\Debug\net7.0\Exemplo03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\obj\Debug\net7.0\Exemplo03.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\obj\Debug\net7.0\Exemplo03.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\obj\Debug\net7.0\Exemplo03.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\obj\Debug\net7.0\Exemplo03.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\obj\Debug\net7.0\refint\Exemplo03.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\obj\Debug\net7.0\Exemplo03.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\obj\Debug\net7.0\Exemplo03.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\05. Arrays\Exemplo03\obj\Debug\net7.0\ref\Exemplo03.dll

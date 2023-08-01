@@ -1,0 +1,15 @@
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\bin\Debug\net7.0\01. Implementando Exeção.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\bin\Debug\net7.0\01. Implementando Exeção.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\bin\Debug\net7.0\01. Implementando Exeção.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\bin\Debug\net7.0\01. Implementando Exeção.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\bin\Debug\net7.0\01. Implementando Exeção.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\obj\Debug\net7.0\01. Implementando Exeção.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\obj\Debug\net7.0\01. Implementando Exeção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\obj\Debug\net7.0\01. Implementando Exeção.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\obj\Debug\net7.0\01. Implementando Exeção.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\obj\Debug\net7.0\01. Implementando Exeção.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\obj\Debug\net7.0\01. Implementando Exeção.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\obj\Debug\net7.0\refint\01. Implementando Exeção.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\obj\Debug\net7.0\01. Implementando Exeção.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\obj\Debug\net7.0\01. Implementando Exeção.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\04. Exeções\01. Implementando Exeção\obj\Debug\net7.0\ref\01. Implementando Exeção.dll

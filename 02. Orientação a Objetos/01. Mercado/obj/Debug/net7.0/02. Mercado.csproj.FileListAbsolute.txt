@@ -1,0 +1,15 @@
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\bin\Debug\net7.0\02. Mercado.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\bin\Debug\net7.0\02. Mercado.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\bin\Debug\net7.0\02. Mercado.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\bin\Debug\net7.0\02. Mercado.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\bin\Debug\net7.0\02. Mercado.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\obj\Debug\net7.0\02. Mercado.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\obj\Debug\net7.0\02. Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\obj\Debug\net7.0\02. Mercado.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\obj\Debug\net7.0\02. Mercado.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\obj\Debug\net7.0\02. Mercado.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\obj\Debug\net7.0\02. Mercado.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\obj\Debug\net7.0\refint\02. Mercado.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\obj\Debug\net7.0\02. Mercado.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\obj\Debug\net7.0\02. Mercado.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\02. Orientação a Objetos\02. Mercado\obj\Debug\net7.0\ref\02. Mercado.dll

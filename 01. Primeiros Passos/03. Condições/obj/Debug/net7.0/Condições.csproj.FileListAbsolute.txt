@@ -1,0 +1,15 @@
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\bin\Debug\net7.0\Condições.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\bin\Debug\net7.0\Condições.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\bin\Debug\net7.0\Condições.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\bin\Debug\net7.0\Condições.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\bin\Debug\net7.0\Condições.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\obj\Debug\net7.0\Condições.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\obj\Debug\net7.0\Condições.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\obj\Debug\net7.0\Condições.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\obj\Debug\net7.0\Condições.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\obj\Debug\net7.0\Condições.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\obj\Debug\net7.0\Condições.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\obj\Debug\net7.0\refint\Condições.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\obj\Debug\net7.0\Condições.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\obj\Debug\net7.0\Condições.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Condições\obj\Debug\net7.0\ref\Condições.dll
