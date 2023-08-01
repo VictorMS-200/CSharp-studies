@@ -20,11 +20,10 @@ Above, there are the C # language fundamentals projects.
 
 ## Why?
 
-This repository aims to record my learning and evolution in the C # language. And also, to help other people who are starting to learn this language. For this, I will try to be as didactic as possible in the explanations of the codes. For more information, contact me in my [Linkedin]("https://www.linkedin.com/in/victor-martins-3565a4268/")
-
+This repository aims to record my learning and evolution in the C # language. And also, to help other people who are starting to learn this language. For this, I will try to be as didactic as possible in the explanations of the codes. For more information, contact me in my <a href="https://www.linkedin.com/in/victor-martins-3565a4268/">Linkedin</a>.
 ## How to use?
 
-First of all you need to have the .NET SDK installed on your machine. You can download it [here]("https://dotnet.microsoft.com/download/dotnet/5.0"). After that, you can clone this repository and run the projects in your IDE. I recommend using Visual Studio Code or Visual Studio Community. After cloning the repository, you can run the projects using the following command in the terminal (inside the project folder):
+First of all you need to have the .NET SDK installed on your machine. You can download it <a href="https://dotnet.microsoft.com/download/dotnet/5.0">here</a>. After that, you can clone this repository and run the projects in your IDE. I recommend using Visual Studio Code or Visual Studio Community. After cloning the repository, you can run the projects using the following command in the terminal (inside the project folder you want to run):
 
 ```bash
 dotnet run
