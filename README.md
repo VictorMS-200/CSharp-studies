@@ -18,7 +18,7 @@ Section that are already translated:
 - 07 - API (In development)
 
 ## First of all
-In this repository, there are all the exercises and tests of new learning along my journey absorbing knowledge in the C # programming language. This repository is divided into folders, each folder contains a project with a specific theme. In each project, there is a README.md file explaining the project and the code. In addition, there is a folder called "Imagens" that contains the images used in the README.md files.
+In this repository, there are all the exercises and tests of new learning along my journey absorbing knowledge in the C # programming language. This repository is divided into folders, each folder contains a project with a specific theme. In each project, there is a README.md file explaining the project and the code. In addition, there is a folder called "Imagens" that contains the images used in the README.md files. This repository not includes projects that are not related to the C # language. For example, projects that are related to the .NET framework, ASP.NET, etc.
 
 ## Topics
 
