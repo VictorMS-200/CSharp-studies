@@ -1,16 +1,19 @@
-# Projetos de aprendizado em C#
+# Studies of CSharp
+
 <img src="/Imagens/thumbnail-Estudos-de-Csharp.png" alt="CSharp"/>
 <img src="https://img.shields.io/badge/dotnet_version-7.0.305-green">
-<img src="https://img.shields.io/badge/Project_section-Pastas-blue">
+<img src="https://img.shields.io/badge/Project_section-Files-blue">
+<img src="https://img.shields.io/badge/Language-English-red">
 
-> Status do projeto: Finalizado
+> Project Status: Finished :heavy_check_mark:
 
-<h1>Pastas</h1>
-Nesse projeto eu aplico os conhecimentos das seguintes coisas: Criação de arquivo, leitura de arquivo, escrita de arquivo, leitura de console e escrita de arquivo. Além de aprender arquivos em binario e criar uma classe para manipular um arquivo e mostrar dados de um arquivo.
+## Topics
 
-Projetos da pasta:
-- Arquivo para classe (Manipulando um arquivo com uma classe)
-- Criando Arquivo (Criando um arquivo e escrevendo nele)
-- binario (Lendo e escrevendo em um arquivo binario)
-- Console input (Lendo o console e escrevendo em um arquivo)
-- Conta (Mostrando dados de um arquivo)
+In this project I apply the knowledge of the following things: Creating file, reading file, writing file, reading console and writing file. Besides learning binary files and creating a class to manipulate a file and show data from a file.
+
+Projects of the section 06. Files of the repository:
+- File to class (Manipulating a file with a class)
+- Creating File (Creating a file and writing in it)
+- Binary (Reading and writing in a binary file)
+- Console input (Reading the console and writing in a file)
+- Account (Showing data from a file)

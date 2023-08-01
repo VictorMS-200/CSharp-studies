@@ -1,11 +1,16 @@
 # Studies of CSharp
 <img src="/Imagens/thumbnail-Estudos-de-Csharp.png" alt="CSharp"/>
 <img src="https://img.shields.io/badge/dotnet_version-7.0.305-green">
+<img src="https://img.shields.io/badge/Language-English-red">
 
 > Project Status: In development :warning:
 
 ## Important (language)
-The project was documented in Portuguese, but the README.md files are in English.
+The project isn't finished yet. I'm still working on it. I'm translating the project from Portuguese to English. So, if you find any errors in the translation, please let me know. Thank you!
+
+Section that are already translated:
+- 01. First steps
+- 02. Object Orientation
 
 ## First of all
 In this repository, there are all the exercises and tests of new learning along my journey absorbing knowledge in the C # programming language. This repository is divided into folders, each folder contains a project with a specific theme. In each project, there is a README.md file explaining the project and the code. In addition, there is a folder called "Imagens" that contains the images used in the README.md files.

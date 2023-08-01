@@ -1,17 +1,27 @@
-# Projetos de aprendizado em C#
+# Studies of CSharp
+
 <img src="/Imagens/thumbnail-Estudos-de-Csharp.png" alt="CSharp"/>
 <img src="https://img.shields.io/badge/dotnet_version-7.0.305-green">
 <img src="https://img.shields.io/badge/Project_section-Arrays-blue">
+<img src="https://img.shields.io/badge/Language-English-red">
 
+> Project Status: Finished :heavy_check_mark:
 
-> Status do projeto: Finalizado
+## Topics
 
-<h1>Arrays</h1>
-Nesse projeto eu aplico os conhecimentos das seguintes coisas: Como utilizar um Array, uma Lista, a diferença entre as duas e generics.
+In this project I apply the knowledge of the following things: How to use an Array, a List, the difference between them and generics.
 
-Projetos da pasta:
-- Tamanho Array (Mosta o tamanho de um array)
-- Buscar Palavra (Busca uma palavra em um array)
-- Mediana (Mediana dos numeros em um array)
-- Numeros Iguais (Mostra os numeros iguais em um array)
-- Lista de Contas (Adicionar, remover, alterar e mostrar contas em uma lista com o sistema do banco)
+Projects of the section 05. Arrays of the repository:
+- Array Size (Show the size of an array)
+- Search Word (Search a word in an array)
+- Median (Median of the numbers in an array)
+- Equal Numbers (Show the equal numbers in an array)
+- Account List (Add, remove, change and show accounts in a list with the bank system)
+
+## How to use?
+
+First of all you need to have the .NET SDK installed on your machine. You can download it <a href="https://dotnet.microsoft.com/download/dotnet/5.0">here</a>. After that, you can clone this repository and run the projects in your IDE. I recommend using Visual Studio Code or Visual Studio Community. After cloning the repository, you can run the projects using the following command in the terminal (inside the project folder you want to run):
+
+```bash
+dotnet run
+```
