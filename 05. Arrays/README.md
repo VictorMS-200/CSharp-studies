@@ -1,9 +1,7 @@
 # Projetos de aprendizado em C#
 <img src="/Imagens/thumbnail-Estudos-de-Csharp.png" alt="CSharp"/>
-[<img src="https://img.shields.io/badge/dotnet_version-7.0.305-green">]
-[<img src="https://img.shields.io/badge/Project_section-Arrays-blue">]
-
-
+<img src="https://img.shields.io/badge/dotnet_version-7.0.305-green">
+<img src="https://img.shields.io/badge/Project_section-Arrays-blue">
 
 
 > Status do projeto: Finalizado
