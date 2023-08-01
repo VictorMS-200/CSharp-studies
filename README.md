@@ -18,3 +18,10 @@ Above, there are the C # language fundamentals projects.
 - 06. Files: Creating, reading, writing, and deleting files.
 - 07. API: Consuming an API.
 
+## Why?
+
+This repository aims to record my learning and evolution in the C # language. And also, to help other people who are starting to learn this language. For this, I will try to be as didactic as possible in the explanations of the codes. For more information, contact me in my [Linkedin]("https://www.linkedin.com/in/victor-martins-3565a4268/")
+
+## How to use?
+
+
