@@ -4,7 +4,8 @@
 
 > Project Status: In development :warning:
 
-In this repository, there are all the exercises and tests of new learning along my journey absorbing knowledge in the C # programming language.
+## First of all
+In this repository, there are all the exercises and tests of new learning along my journey absorbing knowledge in the C # programming language. This repository is divided into folders, each folder contains a project with a specific theme. In each project, there is a README.md file explaining the project and the code. In addition, there is a folder called "Imagens" that contains the images used in the README.md files. Also the project was documented in Portuguese, but the README.md files are in English.
 
 ## Topics
 
