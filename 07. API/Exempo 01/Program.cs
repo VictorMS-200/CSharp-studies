@@ -7,25 +7,21 @@ using (HttpClient client = new HttpClient())
     try
     {
         
-        string resposta = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json"); // Converte a resposta get em uma string
+        string response = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
 
-        var musicas = JsonSerializer.Deserialize<List<Musicas>>(resposta)!; // Serializa a string em uma lista de objetos
+        var songs = JsonSerializer.Deserialize<List<Musicas>>(response)!;
 
-        // Filtra todos os generos musicais
-        //LinqFilter.FiltrarTodosGeneros(musicas);
+        LinqFilter.FiltrarTodosGeneros(songs);
 
-        // Ordena os artistas
-        //LinqOrder.OrdenarArtistas(musicas);
+        LinqOrder.OrdenarArtistas(songs);
 
-        // Filtra os artistas por genero
-        //LinqFilter.FiltarArtistasPorGenero(musicas, "pop");
+        LinqFilter.FiltarArtistasPorGenero(songs, "pop");
 
-        // Filtra as musicas pelo artista
-        LinqFilter.FiltarMusicasPorArtista(musicas, "Skrillex");
+        LinqFilter.FiltarMusicasPorArtista(songs, "Skrillex");
 
     }
     catch (Exception ex)
     {
-        Console.WriteLine($"Temos um erro {ex.Message}");
+        Console.WriteLine($"Problem found: {ex.Message}");
     }
 }

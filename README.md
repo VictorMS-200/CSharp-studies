@@ -9,8 +9,12 @@
 The project isn't finished yet. I'm still working on it. I'm translating the project from Portuguese to English. So, if you find any errors in the translation, please let me know. Thank you!
 
 Section that are already translated:
-- 01. First steps
-- 02. Object Orientation
+- 01 - First steps
+- 02 - Object Orientation
+- 03 - Inheritance and interface (Until the project 01. Operation)
+- 04 - Exceptions 
+- 05 - Arrays (Until the project 04. Equal Numbers)
+- 06 - Files 
 
 ## First of all
 In this repository, there are all the exercises and tests of new learning along my journey absorbing knowledge in the C # programming language. This repository is divided into folders, each folder contains a project with a specific theme. In each project, there is a README.md file explaining the project and the code. In addition, there is a folder called "Imagens" that contains the images used in the README.md files.
@@ -19,13 +23,13 @@ In this repository, there are all the exercises and tests of new learning along 
 
 Above, there are the C # language fundamentals projects. 
 
-- 01. First steps: Simple projects, but that are fundamental for a journey to learn a new language.
-- 02. Object Orientation: Creating classes and objects. 
-- 03. Inheritance and interface: Inheriting one class to another class and implementing an interface in a class.
-- 04. Exceptions: Projects that contain exception handling and creation.
-- 05. Arrays: Projects that contain arrays and lists.
-- 06. Files: Creating, reading, writing, and deleting files.
-- 07. API: Consuming an API.
+- 01 - First steps: Simple projects, but that are fundamental for a journey to learn a new language.
+- 02 - Object Orientation: Creating classes and objects. 
+- 03 - Inheritance and interface: Inheriting one class to another class and implementing an interface in a class.
+- 04 - Exceptions: Projects that contain exception handling and creation.
+- 05 - Arrays: Projects that contain arrays and lists.
+- 06 - Files: Creating, reading, writing, and deleting files.
+- 07 - API: Consuming an API.
 
 ## Why?
 

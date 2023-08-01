@@ -1,34 +1,34 @@
 ﻿using System.Text;
 
 
-var localDoArquivo = "Contas.txt"; // Caminho do arquivo
+var rootFile = "Contas.txt"; // Contas.txt is in the root folder of the project (06. Files\01. File to class)
 
 
 // Escreve o buffer na tela
-void EscreverBuffer(byte[] buffer, int BytesLidos)
+void WriteBuffer(byte[] buffer, int BytesRead)
 {
     var utf8 = new UTF8Encoding(); // Cria um objeto UTF8
 
-    var texto = utf8.GetString(buffer, 0, BytesLidos); // Converte os bytes para string
-    Console.Write(texto);
+    var text = utf8.GetString(buffer, 0, BytesRead); // Converte os bytes para string
+    Console.Write(text);
 }
 
 
 void FileClass()
 {
     // Imprime a quantidade de linhas do arquivo
-    var linhas = File.ReadAllLines(localDoArquivo);
-    Console.WriteLine($"O arquivo tem {linhas.Length} linhas."); 
+    var lines = File.ReadAllLines(rootFile);
+    Console.WriteLine($"O arquivo tem {lines.Length} linhas."); 
 
     // Imprime todas as linhas do arquivo
-    foreach (var linha in linhas)
+    foreach (var line in lines)
     {
-        Console.WriteLine(linha);
+        Console.WriteLine(line);
     }
 
     // Le os bytes do arquivo e imprime a quantidade de bytes
-    var bytesLidos = File.ReadAllBytes(localDoArquivo);
-    Console.WriteLine($"O arquivo tem {bytesLidos.Length} bytes.");
+    var bytesRead = File.ReadAllBytes(rootFile);
+    Console.WriteLine($"O arquivo tem {bytesRead.Length} bytes.");
 
     // Escreve no arquivo o nome "Victor Martins de Sousa"
     File.WriteAllText("Nome.txt", "Victor Martins de Sousa");
@@ -38,20 +38,20 @@ void FileClass()
 void LidandoComFileStream()
 {   
     // FileStream é uma classe que permite ler e escrever bytes em um arquivo
-    using (var fluxoDoArquivo = new FileStream(localDoArquivo, FileMode.Open))
+    using (var fileStream = new FileStream(rootFile, FileMode.Open))
     {
-        var numeroDeBytesLidos = -1;
+        var NumbersOfBytsRead = -1;
 
         var buffer = new byte[1024]; // Cria um buffer de 1024 bytes
 
         // Enquanto o numero de bytes lidos for diferente de 0, continua lendo
-        while(numeroDeBytesLidos != 0)
+        while(NumbersOfBytsRead != 0)
         {
-            numeroDeBytesLidos = fluxoDoArquivo.Read(buffer, 0, 1024); // Lê 1024 bytes do arquivo
-            EscreverBuffer(buffer, numeroDeBytesLidos);
+            NumbersOfBytsRead = fileStream.Read(buffer, 0, 1024); // Lê 1024 bytes do arquivo
+            WriteBuffer(buffer, NumbersOfBytsRead);
         }
 
-        fluxoDoArquivo.Close();
+        fileStream.Close();
     }
 }
 

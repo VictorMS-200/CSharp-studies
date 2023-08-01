@@ -1,4 +1,4 @@
-namespace ClassOperacaoFinanceiraException
+namespace ClassInsufficientBalanceException
 {
     public class OperacaoFinanceiraException : Exception
     {

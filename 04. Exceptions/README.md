@@ -13,8 +13,6 @@ In this project I apply the knowledge of the following things: Exception in a co
 
 Projects of the section 04. Exceptions of the repository:
 - Implementing Exception (Implementing exceptions in the bank project)
-- Creating Exception (Creating an exception)
-
 ## How to use?
 
 First of all you need to have the .NET SDK installed on your machine. You can download it <a href="https://dotnet.microsoft.com/download/dotnet/5.0">here</a>. After that, you can clone this repository and run the projects in your IDE. I recommend using Visual Studio Code or Visual Studio Community. After cloning the repository, you can run the projects using the following command in the terminal (inside the project folder you want to run):

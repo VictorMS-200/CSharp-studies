@@ -1,48 +1,47 @@
-﻿// Criação de arrays
+﻿// Create a program that reads 10 numbers from the user and shows the numbers that are repeated.
+int[] num = new int[10] {0,0,1,0,5,5,5,5,6,7};
+int[] EqualNum = new int[10];
 
-int[] numeros = new int[10] {0,0,1,0,5,5,5,5,6,7};
-int[] numerosIguais = new int[10];
+// Create a variable to store the position of the array EqualNum
+int position = 0;
+int confirm = 0;
 
-// Criação de variaveis
-int posicao = 0;
-int confirmar = 0;
-
-// Primeira seleção
-for (int externo = 0; externo < numeros.Length; externo++) 
+// First selection
+for (int outer = 0; outer < num.Length; outer++)
 {
-    // Segunda seleção
-    for (int interno = 0; interno < numeros.Length; interno++) 
+    // Second selection
+    for (int inner = 0; inner < num.Length; inner++) 
     {
-        // Não comparar o mesmo número (primeira seleção com a segunda)
-        // Verifica se os números são iguais
-        if (numeros[externo] == numeros[interno] && externo != interno)
+        // Check if the numbers are equal and if they are not in the same position
+        if (num[outer] == num[inner] && outer != inner)
         {
-            confirmar = 0; // reseta o confirmar para os outros números
+            confirm = 0; // Reset the variable confirm
             
-            // Verifica se já houve mais de uma vez o número repitido
-            for (int p = 0; p < posicao; p++) 
+            // Check if the number is already in the array EqualNum
+            for (int p = 0; p < position; p++) 
             {
-                if (numeros[externo] == numerosIguais[p])
+                // If the number is already in the array, confirm = 1
+                if (num[outer] == EqualNum[p])
                 {
-                    confirmar++;
+                    confirm++;
                     break;
                 }
             }
 
-            // Adiciona o número se ele for repitido, e não tiver já na array numerosIguais
-            if (confirmar == 0)
+            // Add the number to the array EqualNum if it is not repeated
+            if (confirm == 0)
             {
-                numerosIguais[posicao] = numeros[externo];
-                posicao++;
+                EqualNum[position] = num[outer];
+                position++;
             }
         }   
     }   
 }
 
-// Mostra os números iguais
-for (int i = 0; i < posicao; i++)
+// Print the numbers that are repeated
+for (int i = 0; i < position; i++)
 {
-    Console.Write(numerosIguais[i] + " ");
+    Console.Write(EqualNum[i] + " ");
 }
 
 /* 

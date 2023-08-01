@@ -1,4 +1,4 @@
-using ClassOperacaoFinanceiraException;
+using ClassInsufficientBalanceException;
 
 public class SaldoInsuficienteException : OperacaoFinanceiraException
 {

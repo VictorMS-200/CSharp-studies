@@ -1,25 +1,38 @@
-﻿void BuscarPalavra() {
+﻿void SearchWord()
+{
+    // Declare an array of strings
+    string[] wordArray = new string[5];
 
-    string[] arrayPalavras = new string[5];
-
-    for (int i = 0; i < arrayPalavras.Length; i++)
+    // Assign values to the array
+    for (int i = 0; i < wordArray.Length; i++)
     {
-        Console.Write($"Digite {i+1}ª Palavra: ");
-        arrayPalavras[i] = Console.ReadLine()!;
+        Console.Write($"Write word {i+1}:");
+        wordArray[i] = Console.ReadLine()!;
     }
 
-    Console.Write($"Digite palavra a ser encontrada: ");
-    
-    var busca = Console.ReadLine();
+    Console.Write($"Write a word to search:");
+    var search = Console.ReadLine();
 
-    foreach (var Palavra in arrayPalavras)
+    // Search for the word in the array
+    foreach (var word in wordArray)
     {
-        if (busca == Palavra)
+        if (search == word)
         {
-            Console.WriteLine($"Palavra encontrada = {busca}.");
+            Console.WriteLine($"Word searched: {search}");
             break;
         }
     }
 }
 
-BuscarPalavra();
+SearchWord();
+/*
+Output: 
+
+Write word 1: Hello
+Write word 2: World
+Write word 3: !
+Write word 4: Good
+Write word 5: Morning
+Write a word to search: !
+Word searched: !
+*/

@@ -1,49 +1,48 @@
-﻿using ByteBankIO;
+﻿using BankSystem;
 
 // Convert string to ContaCorrente
-ContaCorrente ConverterStringParaContaCorrente(string linha)
+Bank StringToCurrentAccount(string line)
 {
-    // Separando os dados da linha
-    var campos = linha.Split(',');
+    // Split string
+    var campos = line.Split(',');
 
-    var agencia = campos[0];
-    var numero = campos[1];
-    var saldo = campos[2].Replace('.', ',');
-    var nometitular = campos[3];
+    // Get values from string and convert to int and double
+    var account = campos[0];
+    var number = campos[1];
+    var balance = campos[2].Replace('.', ',');
+    var holderName = campos[3];
 
-    // Convertendo os dados para os tipos corretos
-    var agenciaComInt = int.Parse(agencia);
-    var numeroComInt = int.Parse(numero);
-    var saldoComDouble = double.Parse(saldo);
+    var accountInt = int.Parse(account);
+    var numberInt = int.Parse(number);
+    var balanceDouble = double.Parse(balance);
 
-    // Criando o titular
-    var titular = new Cliente();
-    titular.Nome = nometitular;
+    // Create a new Client and set the name
+    var holder = new Client();
+    holder.Name = holderName;
 
-    // Criando a conta corrente
-    var resultado = new ContaCorrente(agenciaComInt, numeroComInt);
-    resultado.Depositar(saldoComDouble);
-    resultado.Titular = titular;
+    // Create a new ContaCorrente and set the values
+    var result = new Bank(accountInt, numberInt);
 
-    // Retornando a conta corrente
-    return resultado;
+    result.Deposit(balanceDouble);
+    result.Holder = holder;
+    
+    return result;
 }
 
-
-using (var fluxoDeArquivo = new FileStream("contas.txt", FileMode.Open))
+// Open file (Contas.txt) and read line by line
+using (var file = new FileStream("Contas.txt", FileMode.Open)) // Contas.txt is in the root folder of the project (06. Files\01. File to class)
 {
-    // Criando um leitor de arquivos
-    var leitor = new StreamReader(fluxoDeArquivo);
+    // Read file
+    var reader = new StreamReader(file);
 
-    // Lendo o arquivo até o final
-    while(!leitor.EndOfStream)
+    // Read line
+    while(!reader.EndOfStream)
     {
-        // Lendo uma linha do arquivo
-        var linha = leitor.ReadLine();
-        var contaCorrente = ConverterStringParaContaCorrente(linha!);
+        var line = reader.ReadLine();
+        var currentAccount = StringToCurrentAccount(line!);
 
-        // Escrevendo no console o resultado
-        Console.WriteLine($"{contaCorrente.Titular!.Nome} : Conta número {contaCorrente.Numero}, ag {contaCorrente.Agencia}, saldo {contaCorrente.Saldo}");
+        // Write line in console
+        Console.WriteLine($"{currentAccount.Holder!.Name} : Number {currentAccount.Number}, ag {currentAccount.Account}, balance {currentAccount.Balance}");
     }   
 }
 Console.ReadLine();
@@ -51,8 +50,8 @@ Console.ReadLine();
 /*
 Output:
 
-Guilherme Silva : Conta número 123, ag 456, saldo 100
-Márcia Silva : Conta número 789, ag 654, saldo 100
-Rafael Silva : Conta número 1011, ag 123, saldo 100
+Guilherme : Number 456, ag 123, balance 400
+Mariana : Number 789, ag 123, balance 500
+Luiza : Number 101112, ag 456, balance 1500
 ...
 */
