@@ -1,18 +1,20 @@
-# Estudos de Csharp
+# Studies of CSharp
 <img src="/Imagens/thumbnail-Estudos-de-Csharp.png" alt="CSharp"/>
 <img src="https://img.shields.io/badge/dotnet_version-7.0.305-green">
 
-> Status do projeto: Em andamento
+> Project Status: In development :warning:
 
-Nesse repositorio, há todos os exercicios e testes de novos aprendizados ao longo de minha caminhada absorvendo conhecimentos na linguagem de programação C#.
+In this repository, there are all the exercises and tests of new learning along my journey absorbing knowledge in the C # programming language.
 
-Acima, há os projetos de fundamentos da linguagem C#. 
+## Topics
 
-- 01. Primeiros passos: Projetos simples, mas que são fundamentais para uma jornada para apreder uma linguagem nova.
-- 02. Orientação a Objetos: Criação de classes e objetos. 
-- 03. Herança e interface: Herdando uma classe a outra classe e implementando interface em uma classe.
-- 04. Exeções: Projetos que contem manipulação de exeções e a criação.
-- 05. Arrays: 
-- 06. Pastas:
-- 07. Arquivos:
+Above, there are the C # language fundamentals projects. 
+
+- 01. First steps: Simple projects, but that are fundamental for a journey to learn a new language.
+- 02. Object Orientation: Creating classes and objects. 
+- 03. Inheritance and interface: Inheriting one class to another class and implementing an interface in a class.
+- 04. Exceptions: Projects that contain exception handling and creation.
+- 05. Arrays: Projects that contain arrays and lists.
+- 06. Files: Creating, reading, writing, and deleting files.
+- 07. API: Consuming an API.
 
