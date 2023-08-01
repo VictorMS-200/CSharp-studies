@@ -24,4 +24,11 @@ This repository aims to record my learning and evolution in the C # language. An
 
 ## How to use?
 
+First of all you need to have the .NET SDK installed on your machine. You can download it [here]("https://dotnet.microsoft.com/download/dotnet/5.0"). After that, you can clone this repository and run the projects in your IDE. I recommend using Visual Studio Code or Visual Studio Community. After cloning the repository, you can run the projects using the following command in the terminal (inside the project folder):
+
+```bash
+dotnet run
+```
+
+
 
