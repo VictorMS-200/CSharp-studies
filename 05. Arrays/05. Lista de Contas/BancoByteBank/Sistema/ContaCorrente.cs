@@ -1,6 +1,6 @@
 using Exemplo04.BancoByteBank;
 
-namespace bancoSistema
+namespace BankSystem
 {
     public class ContaCorrente : IComparable<ContaCorrente>
     {

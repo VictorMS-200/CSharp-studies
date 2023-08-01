@@ -1,13 +1,9 @@
-// Primeiro programa feito no C#, o famoso Print "Hello World"
+// First program made in C#, the famous Print "Hello World"
+namespace Csharp_Studies;
 
-using System;
-
-namespace Csharp_Studies
+class HelloWorld
 {
-    class HelloWorld
-    {
-        static void Main(string[] args) {
-            Console.WriteLine("Hello World!");
-        }
+    static void Main(string[] args) {
+        Console.WriteLine("Hello World!");
     }
 }

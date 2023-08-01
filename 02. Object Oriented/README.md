@@ -1,16 +1,15 @@
-# Projetos de aprendizado em C#
+# Studies of CSharp
 
 <img src="/Imagens/thumbnail-Estudos-de-Csharp.png" alt="CSharp"/>
 <img src="https://img.shields.io/badge/dotnet_version-7.0.305-green">
-<img src="https://img.shields.io/badge/Project_section-Orientação_a_objetos-blue">
+<img src="https://img.shields.io/badge/Project_section-Object_Oriented-blue">
 
-> Status do projeto: Finalizado
+> Project Status: Finished :heavy_check_mark:
 
-<h1>Orientação a objeto</h1>
-Nesse projeto eu aplico os conhecimentos das seguintes coisas: Criação de classes, criar objetos, criar metodos, valor padrão do tipo primitivo, composição de classe, namespace, criar um get e set de um objeto (propriedade e propriedade implementadas), membro construtor e membro estático.
+## Topics
+In this project I apply the knowledge of the following things: Class creation, create objects, create methods, default value of primitive type, class composition, namespace, create a get and set of an object (property and implemented property), constructor member and static member.
 
-
-Projetos da pasta:
-- Mercado (Projeto mais simples, aprendendo o funcionamento de Orientação a Objeto)
-- FastFood (Projeto com composição de classe)
-- Banco (Projeto mais completo, com todos os conhecimentos aplicados)
+Project of the section 02. Object Oriented of the repository.
+- Market (Simple project, learning the functioning of Object Orientation)
+- FastFood (Project with class composition)
+- Bank (More complete project, with all the knowledge applied)

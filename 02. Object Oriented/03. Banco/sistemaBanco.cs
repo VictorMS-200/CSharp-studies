@@ -1,95 +1,91 @@
-using System;
-using TItular;
+using ClientClass;
 
-namespace bancoSistema
+namespace BankSystem;
+
+public class Bank
 {
-    public class Banco
+    
+    // Create attributes
+    public string? Account { get; set; }
+    public static int TotalAccountCreated { get; private set; } // static member
+
+
+    public Client? Holder { get; set; } // Attribute of type Client
+
+
+    // Create attribute with encapsulation
+    private int numero_agencia;
+    public int Numero_agencia
     {
-        
-        // Criação do atributo Conta
-        public string? Conta { get; set; }
-        public static int TotalDeContasCriadas { get; private set; } // Membro estático 
+        get { return this.numero_agencia; }
 
-
-        public Cliente? Titular { get; set; } // Atributo da classe Cliente
-
-
-        // Criação do atributo numero_agencia com encapsulamento
-        private int numero_agencia;
-        public int Numero_agencia
-        {
-            get { return this.numero_agencia; }
-
-            private set {
-                    if (value > 0)
-                    {
-                        this.numero_agencia = value;
-                    }
-            }
-        }
-
-
-        // Criação do atributo saldo com encapsulamento
-        private double saldo = 100;
-        public double Saldo
-        {
-            get { return this.saldo; }
-            set {  
-                    if (value < 0)
-                    {
-                        return;
-                    } 
-                    else 
-                    {
-                        saldo = value;
-                    }
+        private set {
+                if (value > 0)
+                {
+                    this.numero_agencia = value;
                 }
         }
+    }
 
-
-        // Função de Depositar um valor na conta
-        public void Depositar(int valor)
-        {
-            this.saldo += valor;
-        }
-
-
-        // Função de Sacar um valor, exeto valores acima do contido na conta
-        public bool Sacar(int valor)
-        {
-            if (valor <= this.saldo) 
-            {
-                this.saldo -= valor;
-                return true;
-
-            } 
-            else 
-            {
-                return false;
+    private double balance = 100;
+    public double Balance
+    {
+        get { return this.balance; }
+        set {  
+                if (value < 0)
+                {
+                    return;
+                } 
+                else 
+                {
+                    balance = value;
+                }
             }
-        }
+    }
 
 
-        // Função de Transferir valor para outra conta
-        public bool Transferir(int valor, Banco contaRecorente)
+    // Constructor with parameters
+    public Bank(int numero_agencia, string numero_conta) {
+        this.numero_agencia = numero_agencia;
+        this.Account = numero_conta;
+        TotalAccountCreated++;
+    }
+
+
+    // Function to deposit a value
+    public void Deposit(int valor)
+    {
+        this.balance += valor;
+    }
+
+
+    // Function to withdraw a value
+    public bool Withdraw(int valor)
+    {
+        if (valor <= this.balance) 
         {
-            if (this.saldo < valor)
-            {
-                return false;
+            this.balance -= valor;
+            return true;
 
-            } else {
-                Sacar(valor);
-                contaRecorente.Depositar(valor);
-                return true;
-            }
+        } 
+        else 
+        {
+            return false;
         }
+    }
 
 
-        // Membro construtor da classe (numero_agencia e numero_conta)
-        public Banco(int numero_agencia, string numero_conta) {
-            this.numero_agencia = numero_agencia;
-            this.Conta = numero_conta;
-            TotalDeContasCriadas++;
+    // Function to transfer a value
+    public bool transfer(int valor, Bank contaRecorente)
+    {
+        if (this.balance < valor)
+        {
+            return false;
+
+        } else {
+            Withdraw(valor);
+            contaRecorente.Deposit(valor);
+            return true;
         }
     }
 }

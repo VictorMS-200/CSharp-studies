@@ -1,6 +1,6 @@
 ﻿using System;
 using TItular;
-using bancoSistema;
+using BankSystem;
 using ClassLeitorDeArquivo;
 
 

@@ -1,7 +1,7 @@
 using System;
 using TItular;
 
-namespace bancoSistema
+namespace BankSystem
 {
     public class Banco
     {
