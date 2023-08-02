@@ -15,7 +15,6 @@ Projects of the section [07. API] of the repository:
 - Music ()
 - JsonFile ()
 
-
 ## How to use?
 
 First of all you need to have the .NET SDK installed on your machine. You can download it <a href="https://dotnet.microsoft.com/download/dotnet/5.0">here</a>. After that, you can clone this repository and run the projects in your IDE. I recommend using Visual Studio Code or Visual Studio Community.

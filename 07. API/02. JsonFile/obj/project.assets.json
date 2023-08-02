@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\07. API\\Exempo 01 copy\\Exempo 01.csproj",
+      "projectUniqueName": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\07. API\\02. JsonFile\\Exempo 01.csproj",
       "projectName": "Exempo 01",
-      "projectPath": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\07. API\\Exempo 01 copy\\Exempo 01.csproj",
+      "projectPath": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\07. API\\02. JsonFile\\Exempo 01.csproj",
       "packagesPath": "C:\\Users\\lusto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\07. API\\Exempo 01 copy\\obj\\",
+      "outputPath": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\07. API\\02. JsonFile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lusto\\AppData\\Roaming\\NuGet\\NuGet.Config",

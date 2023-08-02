@@ -1,4 +1,5 @@
 ﻿using System.Text.Json;
+using Linq;
 using Models;
 
 
@@ -20,7 +21,7 @@ using (HttpClient client = new HttpClient())
         FavoriteSongsOfVictor.AddSong(songs[888]);
         FavoriteSongsOfVictor.AddSong(songs[691]);  
 
-        FavoriteSongsOfVictor.JsonMusics();
+        LinqFilter.FilterMusicByKey(songs);
 
     }
     catch (Exception ex)

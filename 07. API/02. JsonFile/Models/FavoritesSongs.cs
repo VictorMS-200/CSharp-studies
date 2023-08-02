@@ -35,7 +35,7 @@ public class FavoritesSongs
         // Using foreach to show the list of songs
         foreach (var musica in ListOfMusics)
         {
-            Console.WriteLine($"{musica}");
+            Console.WriteLine($"{musica.Artist} - {musica.Song}");
         }
     }
 
