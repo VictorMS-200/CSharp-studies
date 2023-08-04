@@ -8,7 +8,7 @@
 ## Important (language)
 The project <b>isn't finished yet.</b> I'm still working on it. I'm translating the project from Portuguese to English. So, if you find any errors in the translation, please let me know. Thank you!
 
-Section that are already translated:
+The section that is already translated:
 - 01 - First steps
 - 02 - Object Orientation
 - 03 - Inheritance and interface
@@ -18,9 +18,9 @@ Section that are already translated:
 - 07 - API (In development)
 
 ## First of all
-In this repository, there are all the exercises and tests of new learning along my journey absorbing knowledge in the C # programming language. This repository is divided into folders, each folder contains a project with a specific theme. In each project, there is a README.md file explaining the project and the code. In addition, there is a folder called "Imagens" that contains the images used in the README.md files. 
+In this repository, there are all the exercises and tests of new learning along my journey of absorbing knowledge in the C # programming language. This repository is divided into folders, each folder contains a project with a specific theme. In each project, there is a README.md file explaining the project and the code. In addition, there is a folder called "Imagens" that contains the images used in the README.md files. 
 
-This repository not includes projects that are not related to the C # language. For example, projects that are related to the .NET framework, ASP.NET, etc.
+This repository does not include projects that are not related to the C # language. For example, projects that are related to the .NET framework, ASP.NET, etc.
 
 ## Topics
 
@@ -38,17 +38,25 @@ Above, there are the C # language fundamentals projects.
 
 This repository aims to record my learning and evolution in the C # language. And also, to help other people who are starting to learn this language. For this, I will try to be as didactic as possible in the explanations of the codes, <b>including the outputs of the programs</b>. 
 
-For more information, contact me in my <a href="https://www.linkedin.com/in/victor-martins-3565a4268/">Linkedin</a>.
+For more information, contact me at my <a href="https://www.linkedin.com/in/victor-martins-3565a4268/">Linkedin</a>.
 
-## How to use?
+## How to use it?
 
-First of all you need to have the .NET SDK installed on your machine. You can download it <a href="https://dotnet.microsoft.com/download/dotnet/5.0">here</a>. After that, you can clone this repository and run the projects in your IDE. I recommend using Visual Studio Code or Visual Studio Community.
+First of all, you need to have the .NET SDK installed on your machine. You can download it <a href="https://dotnet.microsoft.com/download/dotnet/5.0">here</a>. After that, you can clone this repository and run the projects in your IDE. I recommend using Visual Studio Code or Visual Studio Community.
+If you want to do this in Visual Studio Code, you can use the extension <a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp">C#</a> to run the projects.
 
-After cloning the repository, you can run the projects using the following command in the terminal (inside the project folder you want to run). For example, if you want to run the project "01. First steps", you need to cd into the folder "01. First steps/01. Hello World" and run the following command:
+After cloning the repository, you can already run the projects. And for that, you need to write the following command in the terminal:
 
 ```bash
-dotnet run
+dotnet run --project (Folder of the project you want to run)
 ```
 
+For example, if you want to run the project "01.HelloWorld", you need to cd into the folder "01.FirstSteps/01.HelloWorld" and run the following command:
+
+```bash
+dotnet run --project (.\01.FirstSteps\01.HelloWorld\)
+```
+
+Tip: You can use the key TAB to autocomplete the folder name in the terminal.
 
 
