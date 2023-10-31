@@ -1,7 +1,9 @@
 # Studies of CSharp
 <img src="/Image/thumbnail-Estudos-de-Csharp.png" alt="CSharp"/>
-<img src="https://img.shields.io/badge/dotnet_version-7.0.305-green">
-<img src="https://img.shields.io/badge/Language-English-red">
+<div align="center">
+  <img src="https://img.shields.io/badge/dotnet_version-7.0.305-green">
+  <img src="https://img.shields.io/badge/Language-English-red">
+</div>
 
 > Project Status: In development :warning:
 
